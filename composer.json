@@ -5,7 +5,7 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Xiaoyuan136\\ComposerTest\\": "src/"
+            "xiaoyuan136\\ComposerTest\\": "src/"
         }
     },
     "authors": [
