@@ -1,0 +1,18 @@
+{
+    "name": "xiaoyuan136/composer-test",
+    "description": "This is my first composer package!",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Xiaoyuan136\\ComposerTest\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "xiaoyuan136",
+            "email": "henryzhang1366@gmail.com"
+        }
+    ],
+    "require": {}
+}
